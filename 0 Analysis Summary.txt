@@ -1,0 +1,35 @@
+Scott Gregory
+Tableau Homework
+
+PART I:
+"SURPRISING" OBSERVATIONS:
+1) The people taking longer rides, tend to be older (though younger people do take way more rides)
+
+Visualizations:
+-Ride Duration & Total Rides by Age
+-Total rides by Time of Day
+-Ride Duration and Age by Time of Day
+-Attempt to show commuting (peak time) trips are shorter (and younger) while and older riders take longer (leisure?) trips in off peak hours.
+
+
+2) The busiest departure stations in the city are consistent throughout time of year and time of day, predictably located near major transport hubs.  Yet the Flatiron station stands out as very busy yet isn't near such a hub.
+
+Visualizations:
+-Map of station origins
+-Graphs of station origin by time of day
+-Attempt to show that regardless of how you cut the data, the most popular stations are the same (don't change seasonally or by time of day).  And still this Flatiron station stands out.
+
+PART II:
+THE DATA:
+
+Since we are using the free Tableau, we were limited to 15 millions rows. In order to keep to this man while also tracking data across seasons and years, I identified 8 months of data to pull (listed below).  This afforded me one month of data per season and two years of corresponding months.  
+
+Oct 2017
+Jan 2018
+Apr 2018
+July 2018
+Oct 2018
+Jan 2019
+Apr 2019
+July 2019
+
